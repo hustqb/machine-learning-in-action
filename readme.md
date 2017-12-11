@@ -6,6 +6,8 @@
 用于离散数据分类的决策树
 ### KNN
 异常简单的KNN实现。
+### sklearnSVM
+python sklearn机器学习库中对SVM的API
 ## 聚类
 ### K-means聚类
 通过自定义的K-means算法，对鸢尾花数据集进行聚类，并将真实标签与聚类标签对比，结果表明聚类效果良好。
