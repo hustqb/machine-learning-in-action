@@ -9,8 +9,12 @@
 用于离散数据分类的决策树
 ### KNN
 异常简单的KNN实现。
+### Logistic Regression
+逻辑回归分类器，利用特征之间的线性关系和sigmoid函数对输入数据进行二分类。
 ### sklearnSVM
 python sklearn机器学习库中对SVM的API
+### SVM
+线性SVM分类器，运用简单的SMO算法进行加速。
 ## 聚类
 ### K-means聚类
 通过自定义的K-means算法，对鸢尾花数据集进行聚类，并将真实标签与聚类标签对比，结果表明聚类效果良好。
