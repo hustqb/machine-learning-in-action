@@ -24,5 +24,8 @@ python sklearn机器学习库中对SVM的API
 ## 时间序列
 ## 异常点监测
 ## 聚合
+### adaboost
+boosting聚合方法的代表之一：AdaBoost（自适应Boost）
+通过调整样本权重和子分类器预测权重来聚合
 ### bagging聚合代表——随机森林
 随机森林解决连续性数据集的分类问题。
