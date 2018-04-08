@@ -10,8 +10,6 @@ frequent pattern算法，同样是查找频繁项集，但是比Apriori更快。
 ### 朴素贝叶斯分类器
 朴素贝叶斯分类器的基本假设是：样本向量中各个元素相互独立。
 该方法是文本分类中的一个基本方法。
-### 决策树
-用于离散数据分类的决策树
 ### KNN
 异常简单的KNN实现。
 ### Logistic Regression
@@ -20,6 +18,8 @@ frequent pattern算法，同样是查找频繁项集，但是比Apriori更快。
 python sklearn机器学习库中对SVM的API
 ### SVM
 线性SVM分类器，运用简单的SMO算法进行加速。
+### 决策树
+用于离散数据分类的决策树
 
 ## 聚类
 ### K-means聚类
